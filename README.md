@@ -1,16 +1,22 @@
-# Files, Exceptions, and Errors in Python
+# 📄 Task 1 : Read a File and Handle Errors
 
-## 📄 Task Description
+## 🧠 Task Description
 
 This Python script reads and displays the contents of a text file named `sample.txt`. It also gracefully handles scenarios where the file does not exist.
 
 ---
-
 ## ✅ Features
 
 - Reads a text file line by line
 - Prints each line to the console
 - Handles `FileNotFoundError` and other exceptions gracefully
+
+---
+
+## 📂 Files Included
+
+- `task_1.py`: The main Python script.
+- `sample.txt`: Output file generated during script execution.
 
 ---
 
@@ -21,13 +27,13 @@ This Python script reads and displays the contents of a text file named `sample.
 3. Run the script using the terminal or command prompt:
 
 ```bash
-python read_file.py
+python task_1.py
 ```
 
 
 # 📄 Task 2: Write and Append Data to a File
 
-## 🧠 Problem Statement
+## 🧠 Task Description
 
 Write a Python program that:
 
